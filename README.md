@@ -1,4 +1,4 @@
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.reddit.com%2Fr%2FPixelArt%2Fcomments%2Fx87lsd%2Fsoftware_developer_by_day_pixel_artist_by_night%2F&psig=AOvVaw2MpiGIPHUQ7Rgp60LZHX6S&ust=1707410414754000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPDD8tfVmYQDFQAAAAAdAAAAABAE)
+[![MasterHead](https://i.pinimg.com/originals/15/e7/e3/15e7e300166c962d3b8a22f60b5cac9e.gif)
 <h1 align="center">Hi 👋, I'm Hassan Shahbaz</h1>
 <h3 align="center">I am a dedicated 3rd-year student at FAST NUCES University, where I am actively pursuing a comprehensive education in the fields of Data Science, Machine Learning (ML), Biotechnology, and Business Intelligence.</h3>
 
@@ -6,11 +6,11 @@
 <img align="right" alt="Coding" width="400" src="https://irfantariq.com/images/banner.gif">
 - 🔭 I’m currently working on **Data Science**
 
-- 🌱 I’m currently learning **Datascience,Machine learning and LLM**
+- 🌱 I’m currently learning **Data science, Machine learning and LLM**
 
 - 👯 I’m looking to collaborate on **Biotech Data Analysis**
 
-- 💬 Ask me about **Data science,Business Intelligence,UI/UX design and Maths.**
+- 💬 Ask me about **Data science, Business Intelligence, UI/UX design and Mathematics.**
 
 - 📫 How to reach me **hassanshahbaz1356@gmail.com**
 
