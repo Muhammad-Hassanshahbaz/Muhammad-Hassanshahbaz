@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **hassanshahbaz1356@gmail.com**
 
-- ⚡ Fun fact : **Storytelling,Observational and Self-deprecating humor**
+- ⚡ Fun fact : **Storytelling, Observational and Self-deprecating humor**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
